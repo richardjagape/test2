@@ -6,3 +6,5 @@ test branch protection rules
 tets branch protection rule 2
 tets branch protection rule 3
 merge1 from test2 branch
+test from github portal - main
+
